@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 5-raise_exception.py
+# 100-safe_print_integer_err.py
 # Brennan D Baraban <375@holbertonschool.com>
 
 if __name__ == "__main__":
