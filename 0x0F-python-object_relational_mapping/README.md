@@ -1,1 +1,0 @@
-This is a README for my 0x0F-python-object_relational_mapping project!
